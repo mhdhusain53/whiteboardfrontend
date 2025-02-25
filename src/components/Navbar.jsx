@@ -6,7 +6,7 @@ const Navbar = ({ isLoggedIn, onLogout }) => {
     <nav className="bg-[#4B4E6D] p-4">
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="text-white text-xl font-bold">
-          My Website
+         Whiteboard
         </Link>
         <div className="space-x-4">
           <Link to="/" className="text-white hover:text-gray-300">
